@@ -1,5 +1,7 @@
 # FindStudies 👩‍🎓📚
 
+**`Desenvolvedor Fullstack | Estudante Fullstack`**
+
 Bem-vindo à **FindStudies**! Esta é minha conta secundária dedicada exclusivamente a projetos de estudos, experimentais e acadêmicos. Aqui, você encontrará uma variedade de repositórios focados em aprendizado contínuo e desenvolvimento de novas habilidades.
 
 ## Sobre Mim
